@@ -6,7 +6,7 @@ This project implements a **Retrieval-Augmented Generation (RAG)** system for do
 - 🧠 SentenceTransformers (Embeddings)  
 - 🗄 ChromaDB (Vector Database)  
 - 🤖 Mistral (via Ollama - local LLM)  
-- 🎨 Streamlit (UI - upcoming)
+- 🎨 Streamlit 
 
 ---
 
@@ -94,5 +94,6 @@ Source citation display
 Multi-document support
 
 Reranking mechanism
+
 
 Chunk size optimization
